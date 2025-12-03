@@ -33,3 +33,8 @@
 
 >무료 호스팅 가능한 repository는 `1GB` / `월 100GB 트래픽`
 >단일 업로드 가능한 파일의 크기는 `100MB` 제한
+
+
+### 4.3 이미지를 포함한 상세 가이드
+
+> `원캔 게시판` $\rightarrow\$ `개발 공통 사항` $\rightarrow\$ `Github Pages Image 호스팅 가이드` 참고
